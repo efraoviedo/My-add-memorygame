@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/My-add-memorygame/static/css/main.78f9d612.css",
+    "main.js": "/My-add-memorygame/static/js/main.cbe5e23f.js",
+    "static/js/787.be4c5d55.chunk.js": "/My-add-memorygame/static/js/787.be4c5d55.chunk.js",
+    "static/media/cat.jpg": "/My-add-memorygame/static/media/cat.75d72412069a7fc6d17e.jpg",
+    "static/media/girasol.png": "/My-add-memorygame/static/media/girasol.30864918abf621ed9e69.png",
+    "static/media/petalo.png": "/My-add-memorygame/static/media/petalo.ed95e2b0412b46739ca4.png",
+    "static/media/corazon.png": "/My-add-memorygame/static/media/corazon.43b36ff64b0cbbdc2e53.png",
+    "static/media/pensamiento.png": "/My-add-memorygame/static/media/pensamiento.989f7d9dadb40f66d84b.png",
+    "static/media/margarita.png": "/My-add-memorygame/static/media/margarita.723962a5938ece99cddd.png",
+    "static/media/rosas.png": "/My-add-memorygame/static/media/rosas.878ff66e769a9c09eba8.png",
+    "static/media/redRoses.jpg": "/My-add-memorygame/static/media/redRoses.7b177da0a8b14971a1b7.jpg",
+    "static/media/helecho.jpg": "/My-add-memorygame/static/media/helecho.4c53d12d6ad03ca34027.jpg",
+    "static/media/question.png": "/My-add-memorygame/static/media/question.963eb20fcf0163f6c2eb.png",
+    "index.html": "/My-add-memorygame/index.html",
+    "main.78f9d612.css.map": "/My-add-memorygame/static/css/main.78f9d612.css.map",
+    "main.cbe5e23f.js.map": "/My-add-memorygame/static/js/main.cbe5e23f.js.map",
+    "787.be4c5d55.chunk.js.map": "/My-add-memorygame/static/js/787.be4c5d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f9d612.css",
+    "static/js/main.cbe5e23f.js"
+  ]
+}
